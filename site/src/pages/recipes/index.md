@@ -114,6 +114,7 @@ title: Recipes
 - [Carmelized Onions (microwave)](https://www.food.com/recipe/caramelized-onions-4725)
 - [Cheese puffs](https://www.foodnetwork.com/recipes/cheese-puffs-gougeres-4603138)
 - [Classic Sage and Sausage Stuffing](https://www.google.com/url?q=https%3A%2F%2Fwww.seriouseats.com%2Frecipes%2F2010%2F11%2Fclassic-sage-and-sausage-stuffing-or-dressing-recipe.html&sa=D&sntz=1&usg=AFQjCNGtEM9qkrma21Lyebd7Qfsi1N_Rcg)
+- [Crispy, Oven-Baked Sweet Potato Fries](http://seriouseats.com/baked-sweet-potato-fries-recipe-11839467)
 - [Homemade Mochi with a Stand Mixer](https://www.justonecookbook.com/how-to-make-mochi-with-a-stand-mixer/): It really does mean it when it recommends a KitchenAid Professional
 - [Leftover Mashed Potato Puffs](https://www.google.com/url?q=https%3A%2F%2Fwww.simplysissom.com%2Fleftover-mashed-potato-puffs%2F&sa=D&sntz=1&usg=AFQjCNGs0KDiaOvs8EbzR4l4aq77zij-rg)
 - [Potatoes, Green Beans, and Corn with Lemon-Brown Butter Dressing](http://www.google.com/url?q=http%3A%2F%2Fwww.thekitchn.com%2Frecipe-potatoes-green-beans-and-corn-with-lemon-brown-butter-dressing-121830&sa=D&sntz=1&usg=AFQjCNHuiY4TYzu3m5GXTIlJGTuQN2Ol8w)
