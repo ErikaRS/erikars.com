@@ -91,10 +91,13 @@ title: Recipes
   - [Pork larb](https://thewoksoflife.com/pork-larb/)
   - [Pressure Cooker Butternut Squash Risotto With Frizzled Sage and Brown Butter Recipe](https://www.seriouseats.com/recipes/2014/09/pressure-cooker-butternut-squash-risotto-sage-brown-butter-quick-easy-recipe.html)
   - [Pumpkin Agnolotti](https://www.epicurious.com/recipes/food/views/pumpkin-agnolotti-368279)
+  - [Savory Butternut Squash Bread Pudding](https://www.pccmarkets.com/recipe/savory-butternut-squash-bread-pudding/)
   - [Skillet Ravioli w/ Spinach](https://www.google.com/url?q=https%3A%2F%2Fsmittenkitchen.com%2F2019%2F10%2Fskillet-ravioli-with-spinach%2F&sa=D&sntz=1&usg=AFQjCNFcIgKcd8YCZeku6nJKdQrPmIn7uw)
   - [Slow Roasted Turkey Legs with Garlic and Herbs](https://www.alisoneroman.com/recipes/slow-roasted-turkey-legs-with-garlic-and-herbs/)
   - [Spinach Lamejun](https://oldwayspt.org/recipes/spinach-lamejun)
   - [Tangy Braised Chickpeas](https://smittenkitchen.com/2020/09/tangy-braised-chickpeas/)
+  - [Turkey and Squash Risotto](https://www.pccmarkets.com/recipe/turkey-and-squash-risotto/)
+  - [Turkey and Stuffing Fried Rice](https://www.pccmarkets.com/recipe/turkey-stuffing-fried-rice/)
   - [Warm Apple and Chicken Sausage Salad with Rosemary and Toasted Hazelnuts](https://www.pccmarkets.com/recipe/warm-apple-and-chicken-sausage-salad-with-rosemary-and-toasted-hazelnuts/)
   - [Beet recipes](https://www.foodandwine.com/vegetables/root-vegetables/beet/beets) including
     - [Beet Gnocchi with Walnut-Sage Butter](https://www.foodandwine.com/recipes/beet-gnocchi-walnut-sage-butter)
