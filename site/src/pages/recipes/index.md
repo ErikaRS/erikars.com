@@ -233,6 +233,7 @@ title: Recipes
 ## **Drink**
 
 - [Aged Eggnog](https://ruhlman.com/aged-eggnog/)
+- [Sahlab](https://www.seriouseats.com/sahlab-recipe-11869827)
 - To try
   - [Butterbeer](http://www.google.com/url?q=http%3A%2F%2Fwww.semissourian.com%2Fstory%2F1742515.html%3Fresponse%3Dno&sa=D&sntz=1&usg=AFQjCNF8O_k9R_fEhy7GoHrTWdPD0oL4Mw)
   - [Classic Tom & Jerry](https://www.google.com/url?q=https%3A%2F%2Fwww.thespruceeats.com%2Ftom-and-jerry-cocktail-recipe-760573&sa=D&sntz=1&usg=AFQjCNECI3K-5olzimXqwDwJoYQZ-rOJkw) (spiced egg milk punch)
