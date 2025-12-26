@@ -29,6 +29,7 @@ title: Recipes
 - [Baked Parmesean Zucchini](http://www.google.com/url?q=http%3A%2F%2Fdamndelicious.net%2F2014%2F06%2F21%2Fbaked-parmesan-zucchini%2F&sa=D&sntz=1&usg=AFQjCNE6dfNXS1uuCA-SbKAy0iUSs0wBrQ)
 - [Braised Tofu in Caramel Sauce](http://www.google.com/url?q=http%3A%2F%2Fjoanne-eatswellwithothers.blogspot.com%2F2010%2F05%2Fbraised-tofu-in-caramel-sauce-regional.html&sa=D&sntz=1&usg=AFQjCNGXUVZEljjisbk7IWwlVGA1cWqS5g)
 - [Browned Butter Honey Garlic Salmon](https://cafedelites.com/browned-butter-honey-garlic-salmon/) (next time, cook it less than recommended)
+- [Crisp-Skinned Roast Goose & Gravy](https://www.seriouseats.com/roast-goose-and-gravy-recipe)
 - [Curried Potato Noodles w/ Kale](http://www.google.com/url?q=http%3A%2F%2Finspiralized.com%2F2015%2F08%2F12%2Fcurried-potato-noodles-with-kale%2F&sa=D&sntz=1&usg=AFQjCNHUnp67mHZEfc93p8vJ048-cYG9BQ)
 - [Dark Chocolate & Parmesan Grilled Cheese](http://www.google.com/url?q=http%3A%2F%2Fwww.pccnaturalmarkets.com%2Fpcc%2Frecipes%2Fdark-chocolate-and-parmesan-grilled-cheese&sa=D&sntz=1&usg=AFQjCNGnIAI4wiDDVqdFLvTXqTaIOq-b7Q)
 - [Garaetteok](https://www.maangchi.com/recipe/garaetteok) – Cylinder-shaped rice cake noodles
@@ -154,6 +155,7 @@ title: Recipes
 - [The Chocolate Chip Cookies of My Dreams](https://www.recipetineats.com/the-chocolate-chip-cookies-of-my-dreams/#recipe)
 - [Classic Icebox Cake](https://www.seriouseats.com/classic-icebox-cake-recipe)
 - [Whipped Chocolate Ganache Frosting](https://www.seriouseats.com/chocolate-cake-with-whipped-ganache-frosting-recipe) (12oz chocolate + 2 c whipping cream are about enough for a 2 layer 9″ cake. Don’t forget to leave time for the ganache to chill before whipping)
+- [Dark Molasses Gingerbread Cake](https://www.google.com/url?q=https%3A%2F%2Fwww.splendidtable.org%2Frecipes%2Fdark-molasses-gingerbread-cake&sa=D&sntz=1&usg=AFQjCNHkwVHZ1mUCKN9epnbDgii83TljOg)
 - [Easy Chocolate Yule Log Cake](https://www.lifeloveandsugar.com/yule-log-cake-buche-de-noel/)
 - [Eggnog Rum Bundt Cake](http://www.google.com/url?q=http%3A%2F%2Fwww.food.com%2Frecipe%2Feggnog-rum-bundt-cake-106422&sa=D&sntz=1&usg=AFQjCNEVYQunUnAx_unHU6jz-AajWTQTeQ)
 - [Gingerbread cookies](https://www.google.com/url?q=https%3A%2F%2Fwww.geniuskitchen.com%2Frecipe%2Fthe-most-wonderful-gingerbread-cookies-80156&sa=D&sntz=1&usg=AFQjCNHg88OL0sf2T--W20briF2tDTCnZw) ([Preppy Kitchen version](https://preppykitchen.com/gingerbread-men/))
@@ -182,7 +184,6 @@ title: Recipes
   - [Chocolate Raspberry Pavlova](https://www.nigella.com/recipes/chocolate-raspberry-pavlova)
   - [Classic Tiramisu](http://www.google.com/url?q=http%3A%2F%2Fwww.cookingforengineers.com%2Frecipe%2F60%2FThe-Classic-Tiramisu-original-recipe&sa=D&sntz=1&usg=AFQjCNFUZvYgh9D7w_hnsqvOuFWfQSQAmQ)
   - [Dark Chocolate Almond Butter Bars](http://www.google.com/url?q=http%3A%2F%2Fwww.pccnaturalmarkets.com%2Fpcc%2Frecipes%2Fdark-chocolate-almond-butter-bars&sa=D&sntz=1&usg=AFQjCNFTVSFkzqSfhSICbERYNNUL1rErtA)
-  - [Dark Molasses Gingerbread Cake](https://www.google.com/url?q=https%3A%2F%2Fwww.splendidtable.org%2Frecipes%2Fdark-molasses-gingerbread-cake&sa=D&sntz=1&usg=AFQjCNHkwVHZ1mUCKN9epnbDgii83TljOg)
   - [Dave and Kate’s Brownies](http://www.google.com/url?q=http%3A%2F%2Fwww.davidlebovitz.com%2F2013%2F05%2Fdave-and-kates-chocolate-brownies%2F&sa=D&sntz=1&usg=AFQjCNE5F6y6o7NNKsdH5Jb4ftduxcSa3g) (consider variant w/ 1/2 c sugar and 1/2 flour)
   - [Earl Grey Shortbread Cookies](https://www.google.com/url?q=https%3A%2F%2Fwww.sugarandsoul.co%2Fdownton-abbey-earl-grey-cookies%2F&sa=D&sntz=1&usg=AFQjCNGqSeTFXBRoLkadDjd-M-ngoW0EvA) (and [glaze](https://www.google.com/url?q=https%3A%2F%2Fwww.kitchenkonfidence.com%2F2017%2F12%2Fearl-grey-shortbread-cookies-lemon-glaze&sa=D&sntz=1&usg=AFQjCNE3w5VrrDe7qlIL7MYkptTOeooqvA))
   - [Eggnog Latte Cupcakes](http://www.google.com/url?q=http%3A%2F%2Fwww.food.com%2Frecipe%2Feggnog-latte-cupcakes-269340&sa=D&sntz=1&usg=AFQjCNECGTxmwpCOmQHhNmC4ry-8_uYxDg)
