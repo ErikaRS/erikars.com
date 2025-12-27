@@ -361,6 +361,7 @@ title: Recipes
   - [Peppers Stuffed with Spanish Rice](./mains/peppers-stuffed-with-spanish-rice/)
   - [Pork Chops and Rice](./mains/pork-chops-and-rice/)
   - [Pozole/Posole](./mains/pozole/)
+  - [Red Wine Braised Short ribs](./mains/red-wine-braised-short-ribs/)
   - [Ricotta Cheese Gnocchi](./mains/ricotta-cheese-gnocchi/)
   - [Risotto Variants](./mains/risotto-variants/)
   - [Roasted Chicken Thighs With Winter Squash](./mains/roasted-chicken-thighs-with-winter-squash/)
