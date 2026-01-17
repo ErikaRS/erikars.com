@@ -217,6 +217,7 @@ title: Recipes
   - [Seven up bundt cake](https://www.allrecipes.com/best-7up-bundt-cake-recipe-11721276)
   - [Smitten Kitchen Best Birthday Cake](https://smittenkitchen.com/2009/07/best-birthday-cake/)
   - [Serious Eats Chocolate Frosting](https://www.seriouseats.com/recipes/2012/02/easy-chocolate-layer-cake-with-chocolate-frosting-recipe.html)
+  - [Vanillekipferl aka. Vanilla Crescent Cookies](https://baketotheroots.de/vanillekipferl-aka-vanilla-crescent-cookies/)
 
 ## **Breakfast**
 
