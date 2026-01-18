@@ -379,7 +379,6 @@ title: Recipes
   - [Shepherd’s Pie](./mains/shepherds-pie/)
   - [Sous-Vide Turkey Breast with Maple and Rosemary](./mains/sous-vide-turkey-breast-with-maple-and-rosemary/)
   - [Stir Fry Marinade](./mains/stir-fry-marinade/)
-  - [Strata (Bacon & Cheese)](./mains/strata-bacon-cheese/)
   - [Stuffed Pepper Rice](./mains/stuffed-pepper-rice/)
   - [Summer Pasta With Zucchini, Ricotta and Basil](./mains/summer-pasta-with-zucchini/)
   - [Sweet and sour ribs](./mains/sweet-and-sour-ribs/)
