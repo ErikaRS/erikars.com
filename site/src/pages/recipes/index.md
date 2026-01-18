@@ -80,6 +80,7 @@ title: Recipes
   - [Crispy Potato Rosti with Warm Goat Cheese](http://www.google.com/url?q=http%3A%2F%2Fwww.pccnaturalmarkets.com%2Fpcc%2Frecipes%2Fcrispy-potato-rosti-warm-goat-cheese&sa=D&sntz=1&usg=AFQjCNF6ziOcl_lcEZyQFruiGdLce2Lm0w)
   - [Double Crunch Honey Garlic Chicken](http://www.google.com/url?q=http%3A%2F%2Fwww.letsdishrecipes.com%2F2013%2F02%2Fdouble-crunch-honey-garlic-chicken.html&sa=D&sntz=1&usg=AFQjCNGcFNxfTMfrgSIpcKhv1PT7ydpvVw)
   - [Farro Bowls with Roasted Carrots, Herbs and Soft-boiled Egg](https://www.pccmarkets.com/recipe/farro-bowls-with-roasted-carrots-herbs-and-soft-boiled-egg/)
+  - [Flaky Puff Crust Pizza](https://www.kingarthurbaking.com/recipes/flaky-puff-crust-pizza-recipe)
   - [French Onion Soup](https://www.pccmarkets.com/recipe/french-onion-soup/)
   - [Grilled Curry Cauliflower “Steaks”](https://www.pccmarkets.com/recipe/grilled-curry-cauliflower-steaks/)
   - [Halibut Coconut Curry](https://www.pccmarkets.com/sound-consumer/2024-04/everything-you-wanted-to-know-about-halibut-recipes-included/)
@@ -217,6 +218,7 @@ title: Recipes
   - [Seven up bundt cake](https://www.allrecipes.com/best-7up-bundt-cake-recipe-11721276)
   - [Smitten Kitchen Best Birthday Cake](https://smittenkitchen.com/2009/07/best-birthday-cake/)
   - [Serious Eats Chocolate Frosting](https://www.seriouseats.com/recipes/2012/02/easy-chocolate-layer-cake-with-chocolate-frosting-recipe.html)
+  - [Supersized, Super-Soft Chocolate Chip Cookies](https://www.kingarthurbaking.com/recipes/supersized-super-soft-chocolate-chip-cookies-recipe)
   - [Vanillekipferl aka. Vanilla Crescent Cookies](https://baketotheroots.de/vanillekipferl-aka-vanilla-crescent-cookies/)
 
 ## **Breakfast**
@@ -240,6 +242,7 @@ title: Recipes
   - [Croissants](http://www.google.com/url?q=http%3A%2F%2Fthebutcherthebaker.wordpress.com%2F2010%2F04%2F28%2Ffresh-from-the-oven-croissants%2F&sa=D&sntz=1&usg=AFQjCNHkHBWuIEPtkU7sfMW3mSB-xjbHVw)
   - Fried Scones ([yeast leavened](https://www.seriouseats.com/utah-fried-scone-cinnamon-honey-butter-recipe)) ([quick break](https://mindeescookingobsession.com/fried-breakfast-scones/))
   - [Mamonia](https://chefindisguise.com/2014/10/19/mamonia-syrian-semolina-pudding/) – Syrian semolina pudding. (Learned about in Dounia and the Princess of Aleppo)
+  - [Perfectly Pillowy Cinnamon Rolls](https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe)
 
 ## **Drink**
 
