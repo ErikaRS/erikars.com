@@ -382,6 +382,7 @@ title: Recipes
   - [Stuffed Pepper Rice](./mains/stuffed-pepper-rice/)
   - [Summer Pasta With Zucchini, Ricotta and Basil](./mains/summer-pasta-with-zucchini/)
   - [Sweet and sour ribs](./mains/sweet-and-sour-ribs/)
+  - [Tacos](./mains/tacos/)
   - [Taco Bake](./mains/taco-bake/)
   - [Tamales, savory and sweet](./mains/tamales-savory-and-sweet/)
   - [Turkey Almond Stir Fry](./mains/turkey-almond-stir-fry/)
