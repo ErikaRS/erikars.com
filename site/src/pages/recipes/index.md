@@ -484,6 +484,8 @@ title: Recipes
 - [Side](./side/)
   - [Best Ever Naan Recipe](./side/best-ever-naan-recipe/)
   - [Buttermilk Biscuits](./side/buttermilk-biscuits/)
+  - [Oven Roasted Carrots with Tahini Dressing](./side/carrots-with-tahini/)
   - [I win at cornbread](./side/i-win-at-cornbread/)
+  - [Roasted Garlic Butter](./side/roasted-garlic-butter/)
   - [Sous-vide Brown Sugar Sweet Potatoes with Pecans](./side/sous-vide-brown-sugar-sweet-potatoes-with-pecans/)
   - [Sous-vide Cheesy Mashed Potatoes](./side/sous-vide-cheesy-mashed-potatoes/)
