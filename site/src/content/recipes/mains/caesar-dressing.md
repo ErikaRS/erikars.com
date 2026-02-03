@@ -1,3 +1,9 @@
+---
+description: "Ecolibrium 2025 CSA"
+pubDate: '2026-02-03'
+title: Caesar Dressing
+---
+
 *Credit: from Cook’s Illustrated Plant-Based Cookbook*
 
 With all the greens at this time of year, I thought a salad dressing recipe would be appropriate. It is a long ingredient list, but it all gets whipped up quickly and the flavor is incredible. The dressing is written to be vegan, but substitute non-vegan ingredients if you desire. It can be kept in a mason jar in the fridge for a week. Enjoy!
