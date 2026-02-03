@@ -1,3 +1,9 @@
+---
+description: "Ecolibrium 2025 CSA"
+pubDate: '2026-02-03'
+title: Garlic Scape Pesto
+---
+
 This is a wonderful recipe for those garlic lovers among you, and it is so incredibly easy! I love it on toast with butter, but it is also a wonderful complement to chicken or pasta. It is a powerful condiment - a little goes a long way!
 
 ### INGREDIENTS
