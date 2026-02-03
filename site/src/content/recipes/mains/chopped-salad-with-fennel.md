@@ -1,3 +1,9 @@
+---
+description: "Ecolibrium 2025 CSA"
+pubDate: '2026-02-03'
+title: Chopped Salad with Fennel
+---
+
 *Credit: adapted from Cook’s Illustrated Cookbook*
 
 ### INGREDIENTS
