@@ -1,6 +1,5 @@
----
 This is a wonderful recipe for those garlic lovers among you, and it is so incredibly easy! I love it on toast with butter, but it is also a wonderful complement to chicken or pasta. It is a powerful condiment - a little goes a long way!
----
+
 ### INGREDIENTS
 - 6-7 garlic scapes
 - 1/4 recipe pine nuts
