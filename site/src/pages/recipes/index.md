@@ -35,6 +35,7 @@ title: Recipes
 - [Garaetteok](https://www.maangchi.com/recipe/garaetteok) – Cylinder-shaped rice cake noodles
 - [Hot and Bubble Potato, Apple, and Cheese Gratin](http://www.google.com/url?q=http%3A%2F%2Fwww.pccnaturalmarkets.com%2Fpcc%2Frecipes%2Fhot-and-bubbly-potato-tart-apple-and-cheese-gratin&sa=D&sntz=1&usg=AFQjCNGrc7ft-exlUOGHH4efMKmjx_Bi_w)
 - [Hyderabadi Haleem](https://www.thedeliciouscrescent.com/haleem-recipe/)
+- [Instant Ramen to Creamy Tonkatsu](https://www.seriouseats.com/5-minute-tonkotsu-trick-11896465)
 - Kale with Tofu, Miso and Pickled Ginger – Veggie Family Cookbook
 - [Minestrone](http://www.google.com/url?q=http%3A%2F%2Fveganconnecticut.com%2F2012%2F12%2F04%2Fvegan-minestrone-that-makes-you-feel-like-a-cuddly-teddy-bear%2F&sa=D&sntz=1&usg=AFQjCNGs1_more207JrqOCKk3skCiglqDg)
 - [Miso-glazed grilled rice sticks (miso kiritanpo)](https://www.sbs.com.au/food/recipes/miso-glazed-grilled-rice-sticks-miso-kiritanpo)
