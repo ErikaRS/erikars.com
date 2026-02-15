@@ -109,6 +109,7 @@ title: Recipes
   - [Tangy Braised Chickpeas](https://smittenkitchen.com/2020/09/tangy-braised-chickpeas/)
   - [Turkey and Squash Risotto](https://www.pccmarkets.com/recipe/turkey-and-squash-risotto/)
   - [Turkey and Stuffing Fried Rice](https://www.pccmarkets.com/recipe/turkey-stuffing-fried-rice/)
+  - [Velvety Kubocha Squash Pasta](https://www.pccmarkets.com/recipe/velvety-kabocha-squash-pasta/)
   - [Warm Apple and Chicken Sausage Salad with Rosemary and Toasted Hazelnuts](https://www.pccmarkets.com/recipe/warm-apple-and-chicken-sausage-salad-with-rosemary-and-toasted-hazelnuts/)
   - [Beet recipes](https://www.foodandwine.com/vegetables/root-vegetables/beet/beets) including
     - [Beet Gnocchi with Walnut-Sage Butter](https://www.foodandwine.com/recipes/beet-gnocchi-walnut-sage-butter)
