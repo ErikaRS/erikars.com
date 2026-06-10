@@ -358,6 +358,7 @@ title: Recipes
   - [Chicken & Brown Rice](./mains/chicken-brown-rice/)
   - [Chickpeas and Rice](./mains/chickpeas-and-rice/)
   - [Chopped Salad with Fennel](./mains/chopped-salad-with-fennel/)
+  - [Cilantro shrimp with black beans and kale](./mains/shrimp-black-beans-kale/)
   - [Classic Pasta Primavera](./mains/classic-pasta-primavera/)
   - [Classic Quiche Lorraine](./mains/classic-quiche-lorraine/)
   - [Corn Chicken Meatballs and Komatsuna and Egg Dashi Sauce](./mains/corn-chicken-meatballs-and-komatsuna-and-egg-dashi-sauce/)
