@@ -268,6 +268,10 @@ title: Recipes
 
 - [Sekihan (Japanese Azuki Bean Rice)](https://www.justonecookbook.com/sekihan-japanese-azuki-beans-rice/)
 
+## Sauces and rubs
+
+- [Washington Coffee Rub](https://www.pccmarkets.com/recipe/washington-coffee-rub/)
+
 ## **Candidates (todo: sort into categories)**
 
 - [Pan-seared Brussels Sprouts with Apples, Bacon, Shallots and Rosemary](http://www.google.com/url?q=http%3A%2F%2Fwww.pccnaturalmarkets.com%2Fpcc%2Frecipes%2Fpan-seared-brussels-sprouts-apples-bacon-shallots-and-rosemary&sa=D&sntz=1&usg=AFQjCNG5GJ23Q8Q_uULa2i7SyF7bIEgCew)
