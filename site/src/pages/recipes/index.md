@@ -349,6 +349,7 @@ title: Recipes
   - [Chocolate Cherry Cookies](./dessert/chocolate-cherry-cookies/)
   - [Chocolate Sorbet](./dessert/chocolate-sorbet/)
   - [Chocolate-chunk oatmeal cookies with pecans and dried cherries](./dessert/chocolate-chunk-oatmeal-cookies-with-pecans-and-dried-cherries/)
+  - [Dandelion Chocolate Brownies](./dessert/dandelion-chocolate-brownies/)
   - [French Apple Pie](./dessert/french-apple-pie/)
   - [Left Coast Chocolate Chip Cookies](./dessert/left-coast-chocolate-chip-cookies/)
   - [Marionberry & Hazelnut Cobbler](./dessert/marionberry-hazelnut-cobbler/)
