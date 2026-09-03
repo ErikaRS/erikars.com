@@ -20,17 +20,13 @@ title: I win at cornbread
 
 ### Instructions
 
-Heat oven to 400F, and bust out a foil 9″ pie pan.
+Heat oven to 400F, and bust out a foil 9″ pie pan, or a muffin pan (with 12 muffin).
 
-Mix together the dry ingredients in a fair-sized bowl (bigger than a cereal bowl, for reals). Mix the egg, milk, and oil together in a lesser bowl. Then pour the smaller into the larger. Stir until blent, ish, and then pour in a solid dollop of honey. Mix it up and pour the whole mess into the pie pan.
+Mix together the dry ingredients in a fair-sized bowl (bigger than a cereal bowl, for reals). Mix the egg, milk, and oil together in a lesser bowl. Then pour the smaller into the larger. Stir until blent, ish, and then pour in a solid dollop of honey. Mix it up and pour the whole mess into the pie pan, or divide into 12 muffins.
 
-Bake for 24 minutes and then poke it with something (not your finger)
+Bake for 24 minutes (15 minutes for muffins) and then poke it with something (not your finger) to see if the insides are dry.
 
-to see if the insides are dry.
-
-While it is cooking, spin some melted butter with almost an equal part
-
-of honey. You have now made honey-butter. Enjoy.
+While it is cooking, spin some melted butter with almost an equal part of honey. You have now made honey-butter. Enjoy.
 
 ### Notes
 
