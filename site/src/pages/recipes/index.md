@@ -164,6 +164,7 @@ title: Recipes
 - [Chewy Ginger Molasses Cookies](https://www.google.com/url?q=https%3A%2F%2Fwww.gimmesomeoven.com%2Fchewy-ginger-molasses-cookies%2F&sa=D&sntz=1&usg=AFQjCNFGJLv2MKgtvBtN4BUJdgns81dgpg)
 - [*Chocolate Cake With Whipped Ganache Frosting*](https://www.seriouseats.com/chocolate-cake-with-whipped-ganache-frosting-recipe) (half the frosting is plenty for a cake)
 - [Chocolate Chip Cookies](https://preppykitchen.com/chewy-chocolate-chip-cookies/)  (preppy kitchen)
+- [Cinnamon Roll Butter Swim Biscuits](https://www.southernliving.com/cinnamon-roll-butter-swim-biscuits-12076321) 
 - [The Chocolate Chip Cookies of My Dreams](https://www.recipetineats.com/the-chocolate-chip-cookies-of-my-dreams/#recipe)
 - [Classic Icebox Cake](https://www.seriouseats.com/classic-icebox-cake-recipe)
 - [Whipped Chocolate Ganache Frosting](https://www.seriouseats.com/chocolate-cake-with-whipped-ganache-frosting-recipe) (12oz chocolate + 2 c whipping cream are about enough for a 2 layer 9″ cake. Don’t forget to leave time for the ganache to chill before whipping)
