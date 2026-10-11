@@ -513,6 +513,7 @@ title: Recipes
   - [Garlic Scape Pesto](./side/garlic-scape-pesto/)
   - [I win at cornbread](./side/i-win-at-cornbread/)
   - [Oven Roasted Carrots with Tahini Dressing](./side/carrots-with-tahini/)
+  - [Roaseted Beets with Hazelnuts and Honey](./side/roasted-beets-hazelnuts/)
   - [Roasted Garlic Butter](./side/roasted-garlic-butter/)
   - [Sous-vide Brown Sugar Sweet Potatoes with Pecans](./side/sous-vide-brown-sugar-sweet-potatoes-with-pecans/)
   - [Sous-vide Cheesy Mashed Potatoes](./side/sous-vide-cheesy-mashed-potatoes/)
