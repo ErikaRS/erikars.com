@@ -172,6 +172,7 @@ title: Recipes
 - [Easy Chocolate Yule Log Cake](https://www.lifeloveandsugar.com/yule-log-cake-buche-de-noel/)
 - [Eggnog Rum Bundt Cake](http://www.google.com/url?q=http%3A%2F%2Fwww.food.com%2Frecipe%2Feggnog-rum-bundt-cake-106422&sa=D&sntz=1&usg=AFQjCNEVYQunUnAx_unHU6jz-AajWTQTeQ)
 - [Gingerbread cookies](https://www.google.com/url?q=https%3A%2F%2Fwww.geniuskitchen.com%2Frecipe%2Fthe-most-wonderful-gingerbread-cookies-80156&sa=D&sntz=1&usg=AFQjCNHg88OL0sf2T--W20briF2tDTCnZw) ([Preppy Kitchen version](https://preppykitchen.com/gingerbread-men/))
+- [Lemon Sage Cake](https://jamjarkitchen.com/2022/09/01/lemon-sage-cake/#recipe) - Made it for game day. It was very tasty. The yogurt kept it moist. 
 - [Macarons](https://www.google.com/url?q=https%3A%2F%2Fblogs.nordstrom.com%2Ffashion%2Fhow-to-make-macarons-the-perfect-holiday-and-hostess-gift%2F&sa=D&sntz=1&usg=AFQjCNF-C6T-rmym_VCz59a86Xgj5irbdg)
 - [Macarons](https://tasty.co/recipe/macarons) (again)
 - [Mud Hen Bars](https://www.thekitchn.com/mud-hen-bars-recipe-23748865)
