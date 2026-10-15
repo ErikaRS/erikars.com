@@ -381,6 +381,7 @@ title: Recipes
   - [Irish Lamb Stew](./mains/irish-lamb-stew/)
   - [Kohlrabi with Bacon](./mains/kohlrabi-with-bacon/)
   - [Kugel](./mains/kugel/)
+  - [Lemon Arugula Chicken Pasta Salad](./mains/arugula-chicken-pasta-salad/)
   - [Martha’s Hot Rice Salad](./mains/marthas-hot-rice-salad/)
   - [Massaman Curry](./mains/massaman-curry/)
   - [Matzo Balls & Soup](./mains/matzo-balls-soup/)
